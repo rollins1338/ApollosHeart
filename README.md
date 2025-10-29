@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&pause=100&color=a60000&center=true&width=600&lines=Aopllo's+Heart&repeat=false" alt="Typing Text Effect" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&pause=100&color=a60000&center=true&width=600&lines=Apollo's+Heart&repeat=false" alt="Typing Text Effect" />
 
   <p>
 <!-- Genre Badge: UPDATED TO DARK ROMANCE -->
